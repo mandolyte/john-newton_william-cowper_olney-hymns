@@ -33,11 +33,32 @@ p span.i2{
 	text-indent: -1em;
 }
 
-/* p span.i3{
-	padding-left: 4em;
-	text-indent: -1em;
-} */
 footer{
 	margin-top: 1em;
 	text-align: right;
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
+
+[epub|type~="z3998:hymn"] [epub|type~="bridgehead"],
+[epub|type~="z3998:poem"] [epub|type~="bridgehead"],
+[epub|type~="z3998:song"] [epub|type~="bridgehead"],
+[epub|type~="z3998:verse"] [epub|type~="bridgehead"]{
+	text-align: justify;
+}
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
 }
