@@ -16,9 +16,9 @@
 	text-indent: -1em;
 }
 
-/* [epub|type~="z3998:hymn"] p > span + br{
+[epub|type~="z3998:hymn"] p > span + br{
 	display: none;
-} */
+}
 [epub|type~="z3998:hymn"] p + p{
 	margin-top: 1em;
 }
