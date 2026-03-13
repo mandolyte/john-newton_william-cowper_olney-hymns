@@ -71,3 +71,13 @@ footer{
 	text-align: right;
 }
 /* End hymns */
+
+
+/* Page breaks */
+[epub|type~="part"] > hgroup,
+[epub|type~="division"] > hgroup,
+[epub|type~="z3998:section"] > h4,
+[epub|type~="z3998:hymn"]{
+	break-after: page;
+}
+/* End page breaks */
