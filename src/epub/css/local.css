@@ -72,7 +72,6 @@ footer{
 }
 /* End hymns */
 
-
 /* Page breaks */
 [epub|type~="part"] > hgroup,
 [epub|type~="division"] > hgroup,
