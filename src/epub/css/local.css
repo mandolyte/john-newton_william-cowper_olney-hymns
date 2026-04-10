@@ -72,6 +72,10 @@ footer{
 }
 /* End hymns */
 
+footer p:first-of-type{
+	font-variant: small-caps;
+}
+
 /* Page breaks */
 [epub|type~="part"] > hgroup,
 [epub|type~="division"] > hgroup,
