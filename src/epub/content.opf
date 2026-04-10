@@ -33,9 +33,9 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85063617</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">This book of hymns was written over a period of many years and served to teach the tenets of Christianity and to encourage the poor and poorly educated congregants of the Olney Church.</dc:description>
+		<dc:description id="description">A collection of hymns written by John Newton and William Cowper.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Olney Hymns were popular among the evangelical churches in England. They came at a time of social disruption caused by the Industrial Revolution. While the singing of hymns was controversial, it was not forbidden by the Anglican Book of Common Prayer.&lt;/p&gt;
+			&lt;p&gt;The &lt;i&gt;Olney Hymns&lt;/i&gt; were popular among the evangelical churches in England. They came at a time of social disruption caused by the Industrial Revolution. While the singing of hymns was controversial, it was not forbidden by the Anglican Book of Common Prayer.&lt;/p&gt;
 			&lt;p&gt;The hymns address the experiences and troubles of the poor, providing encouragement and educating them about the Christian faith. They also included hymns written from the experiences and troubles of the authors, &lt;a href="https://standardebooks.org/ebooks/john-newton"&gt;John Newton&lt;/a&gt; and his friend and poet &lt;a href="https://standardebooks.org/ebooks/william-cowper"&gt;William Cowper&lt;/a&gt;. Of the almost 350 hymns, Cowper contributed around sixty-six and Newton the remainder.&lt;/p&gt;
 			&lt;p&gt;A few of the hymns have remained popular and are often included in modern hymnbooks, notably “Amazing Grace” in Book I, Hymn 41.&lt;/p&gt;
 		</meta>
